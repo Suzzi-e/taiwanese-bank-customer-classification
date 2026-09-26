@@ -129,6 +129,9 @@ Some of the key lessons from this project were:
 
 ---
 
+## Project Presentation
+View the project presentation - GROUP-7 -Capstone-Presentation.pdf
+
 ## Skills Demonstrated
 
 This project provided practical experience with:
