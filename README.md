@@ -24,6 +24,7 @@ This can potentially help financial institutions identify customer groups that a
 ## Dataset
 
 The project uses a Taiwanese banking marketing dataset containing information about customers and their interactions with a bank's marketing campaign.
+[View the original dataset](https://archive.ics.uci.edu/dataset/222/bank%2Bmarketing)
 
 The features include information relating to areas such as:
 
@@ -151,11 +152,3 @@ This project provided practical experience with:
 * Interpreting machine learning results
 
 ---
-
-## About Me
-
-I am a student of Bachelor of Science in Mathematics and Computer Science student with an interest in **Data Science, Machine Learning, and Data Analytics**.
-
-I am currently building my practical experience through academic projects, machine learning projects, and internship opportunities.
-
-This project is part of my growing portfolio as I develop my skills in applying Python and machine learning techniques to real-world datasets.
