@@ -130,7 +130,10 @@ Some of the key lessons from this project were:
 ---
 
 ## Project Presentation
-View the project presentation - GROUP-7 -Capstone-Presentation.pdf
+
+[View the Project Presentation](./GROUP-7%20-Capstone-Presentation.pdf)
+
+---
 
 ## Skills Demonstrated
 
